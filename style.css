@@ -1,0 +1,57 @@
+h1 {
+color:blue;
+font-family:helvetica; 
+background-color: deeppink;   
+border: 5px solid black;
+margin-left:200px;
+padding:50px;
+}
+
+h1 {
+color: pink;
+font-family:'Courier New', Courier, monospace;
+background-color: white;
+border: 5px solid green;
+padding:50px;
+}
+h2 { 
+    color:purple;
+    background-color: lavender;
+    border: 3px solid purple;
+}
+h3 {
+    color:blueviolet;
+    background-color: azure;
+    border: 3px solid blueviolet;
+    margin-left:100px;
+}
+h4 {
+    color:pink;
+    background-color: black;
+    border: 2px solid pink;
+}
+   
+#highlight  {
+color: black;
+background-color: pink;
+border: 3px dotted black;
+}  
+
+.top {
+    background-color: lightblue;
+    
+}
+
+body {
+    background-color:lightgreen;
+}
+p {
+    color:blue;
+}
+img {
+    border: 5px solid black;
+    width: 50%;
+    height:50%;
+    margin-left:100px;
+}
+
